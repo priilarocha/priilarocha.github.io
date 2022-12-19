@@ -1,0 +1,14 @@
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--trans-000) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--pink-400) }
+nav.theme-dark,
+nav.theme-dark ul.links-wrapper.active { background-color: var(--trans-000) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle { background-color: var(--pink-400) }
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-1,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-2,
+nav.theme-dark.menu-sticky.menu-on-scroll .nav-toggle .bar-3 { background-color: var(--pink-400) }
+nav.theme-dark.menu-sticky.menu-on-scroll,
+nav.theme-dark.menu-sticky.menu-on-scroll ul.links-wrapper.active { background-color: var(--pink-400) }
+
+.section-selector-1 { background-color: var(--trend-050) }
