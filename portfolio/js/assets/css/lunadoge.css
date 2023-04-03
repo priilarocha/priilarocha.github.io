@@ -1724,8 +1724,8 @@ a:not(.btn):any-link {
 :is(a:not(.btn):focus, a:not(.btn):hover, a:not(.btn):active) {
     text-decoration: none;
     text-decoration-thickness: 0;
-    color: var(--black-000);
-    /* background-color: var(--gray-200); */
+    color: #54433b;
+    /* background-color:  #00594c; */
 }
 
 /* =============== BUTTONS: REAL AND FAUX ============== */
@@ -1830,7 +1830,7 @@ a.btn-ghost:active {
 
 /* All screens */
 #contact-form {
-    background-color: var(--gray-200);
+    background-color:  #00594c;
 }
 
 /* Desktop */
@@ -1919,7 +1919,7 @@ a.btn-ghost:active {
 
 #contact-form input, #contact-form textarea {
 	padding: 10px 12px;
-	border: 2px solid var(--black-000);
+	border: 2px solid #54433b;
 	border-radius: 5px;
 }
 
@@ -1932,12 +1932,12 @@ a.btn-ghost:active {
 
 #contact-form #btn-submit { 
 	float: right; 
-    background-color: var(--black-000);
+    background-color: #54433b;
     color: var(--white-000);
 	font-weight: bold;
     padding: 12px 28px;
     font-size: 18px;
-    border: solid 2px var(--black-000);
+    border: solid 2px #54433b;
     cursor: pointer;
     outline: none
 }

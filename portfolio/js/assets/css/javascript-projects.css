@@ -2,7 +2,7 @@
 .container-menu.menu-mobile { background-color: var(--gray-800) }
 .container-menu.menu-mobile ul.mobile-display { background-color: var(--gray-800) }
 .container-menu a:link { font-weight: 600 !important; color: var(--white-000) } 
-.container-menu a:visited { font-weight: 600 !important; color: var(--gray-200) }
+.container-menu a:visited { font-weight: 600 !important; color:  #00594c }
 .container-menu a#btn-cta:link,
 .container-menu a#btn-cta:visited { color: var(--white-000); font-weight: 600 }
 .container-menu .item-icon .bar1,.container-menu .item-icon .bar2,.container-menu .item-icon .bar3 { background-color: var(--white-000) }
