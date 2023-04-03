@@ -456,7 +456,7 @@
  }
 
  .theme-light .cols-background div[class^="col-"] {
-     background-color: var(--gray-200);
+     background-color:  #00594c;
  }
 
  .theme-dark .cols-background div[class^="col-"] {
@@ -478,7 +478,7 @@
  .theme-light .col-1 h3.in-col-1,
  .theme-light p,
  .theme-light li {
-     color: var(--black-000)
+     color: #54433b
  }
 
  .theme-light .col-1 h3 {
@@ -489,8 +489,8 @@
  .theme-light .btn-solid:link,
  .theme-light .btn-solid:visited {
      color: var(--white-000);
-     background-color: var(--black-000);
-     border-color: var(--black-000);
+     background-color: #54433b;
+     border-color: #54433b;
  }
 
  .theme-light .btn-solid:focus,
@@ -503,9 +503,9 @@
 
  .theme-light .btn-outline:link,
  .theme-light .btn-outline:visited {
-     color: var(--black-000);
+     color: #54433b;
      background-color: transparent;
-     border-color: var(--black-000);
+     border-color: #54433b;
  }
 
  .theme-light .btn-outline:focus,
@@ -518,7 +518,7 @@
 
  .theme-light .btn-plain:link,
  .theme-light .btn-plain:visited {
-     color: var(--black-000);
+     color: #54433b;
      background-color: transparent;
  }
 
@@ -529,7 +529,7 @@
  }
 
  .theme-dark {
-     background-color: var(--black-000)
+     background-color: #54433b
  }
 
  .theme-dark .col-1-badge {
@@ -3205,8 +3205,8 @@
 
  .theme-dark div[class^='col-'] a[class^='col-']:link,
  .theme-dark div[class^='col-'] a[class^='col-']:visited {
-     color: var(--sky-500);
-     text-decoration-color: var(--sky-500);
+     color: #00594c;
+     text-decoration-color: #00594c;
  }
 
  .theme-dark div[class^='col-'] a[class^='col-']:focus,
@@ -3385,7 +3385,7 @@
  }
 
  #contact-form {
-     background-color: var(--gray-200);
+     background-color:  #00594c;
  }
 
  @media (min-width: 1024px) {
@@ -3477,7 +3477,7 @@
  #contact-form input,
  #contact-form textarea {
      padding: 10px 12px;
-     border: 2px solid var(--black-000);
+     border: 2px solid #54433b;
      border-radius: 5px;
  }
 
@@ -3492,12 +3492,12 @@
 
  #contact-form #btn-submit {
      float: right;
-     background-color: var(--black-000);
+     background-color: #54433b;
      color: var(--white-000);
      font-weight: bold;
      padding: 12px 28px;
      font-size: 18px;
-     border: solid 2px var(--black-000);
+     border: solid 2px #54433b;
      cursor: pointer;
      outline: none
  }
